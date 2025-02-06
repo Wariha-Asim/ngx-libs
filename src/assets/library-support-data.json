@@ -259,6 +259,11 @@
         "libraryVersion": "v13.0.0",
         "support": true,
         "link": "https://github.com/ng-select/ng-select/releases/tag/v13.0.0"
+      },
+      "19": {
+        "libraryVersion": "v14.0.0",
+        "support": true,
+        "link": "https://github.com/ng-select/ng-select/releases/tag/v14.0.0"
       }
     },
     "automated": true
